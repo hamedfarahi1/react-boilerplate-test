@@ -16,7 +16,7 @@ const cardStyleChild = css`
   box-shadow: 1px 1px 3px rgb(255 255 255 / 60%);
   color: #f4f4f4;
   padding: 30px;
-  font-size: small
+  font-size: small;
 `;
 
 export { cardStyleParent, cardStyleChild };
