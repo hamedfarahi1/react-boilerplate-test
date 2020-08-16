@@ -10,13 +10,13 @@ const cardStyleChild = css`
   width: 80%;
   max-width: 105vh;
   margin-top: 96px;
-
-  height: 80vh;
+  min-height: 80vh;
   background: #3e3e3e;
   border-radius: 3px/6px;
   box-shadow: 1px 1px 3px rgb(255 255 255 / 60%);
   color: #f4f4f4;
   padding: 30px;
+  font-size: small
 `;
 
 export { cardStyleParent, cardStyleChild };
